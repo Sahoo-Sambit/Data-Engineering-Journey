@@ -4,9 +4,9 @@ Welcome to my Data Engineering Learning Journey! This repository contains my wee
 
 📌 About Me
 
-🔹 Current Role: SAP Concur Support @ Tech Mahindra <br?
-🔹 Goal: Become a Data Engineer by Dec 2025 <br?
-🔹 Focus Areas: SQL, Python, Azure, ETL, Data Pipelines <br?
+🔹 Current Role: SAP Concur Support @ Tech Mahindra <br>
+🔹 Goal: Become a Data Engineer by Dec 2025 <br>
+🔹 Focus Areas: SQL, Python, Azure, ETL, Data Pipelines <br>
 
 📅 **Learning Roadmap (Week-by-Week Plan)**
 This roadmap is designed for **9-10 months (March - December 2025)**
