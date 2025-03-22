@@ -2,7 +2,7 @@
 
 Welcome to my Data Engineering Learning Journey! This repository contains my weekly progress, projects, and interview notes as I transition from SAP Concur Support to Data Engineering.
 
-📌 About Me
+📌 About Me 📌
 
 🔹 Current Role: SAP Concur Support @ Tech Mahindra <br>
 🔹 Goal: Become a Data Engineer by Dec 2025 <br>
