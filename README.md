@@ -95,22 +95,21 @@ data-engineering-journey/
 
 ## 🚀 **Next Steps**
 
-🔹 Weekly Interview Notes & Problem-Solving
-📌 SQL Interview Notes:
-SQL Cheatsheet - https://sqlzoo.net/
+🔹 Weekly Interview Notes & Problem-Solving <br>
+📌 SQL Interview Notes: <br>
+SQL Cheatsheet - https://sqlzoo.net/ <br>
 
-Top 50 SQL Interview Questions
-📌 Python Interview Notes:
-Python Cheatsheet - https://www.pythoncheatsheet.org/
+Top 50 SQL Interview Questions <br>
+📌 Python Interview Notes: <br>
+Python Cheatsheet - https://www.pythoncheatsheet.org/ <br>
 
-Top Python Interview Questions
-
-📌 Problem-Solving Questions (SQL & Python):
-LeetCode: SQL Problems
-HackerRank: Python Challenges
-
+Top Python Interview Questions <br>
+📌 Problem-Solving Questions (SQL & Python): <br>
+LeetCode: SQL Problems <br>
+HackerRank: Python Challenges <br>
 
 
-##✨ **Connect with Me**
+
+✨ **Connect with Me**
 💼 LinkedIn | 📧 Email: ssahoo.sambit@gmail.com
 📌 Follow this repository for weekly updates! 🚀
